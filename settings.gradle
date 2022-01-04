@@ -1,0 +1,4 @@
+include ':lvl_library'
+include ':lvl_sample'
+include ':app'
+rootProject.name = "Owlix Vendor"

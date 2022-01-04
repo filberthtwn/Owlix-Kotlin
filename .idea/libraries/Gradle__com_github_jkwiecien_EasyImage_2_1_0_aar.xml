@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jkwiecien:EasyImage:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a065854c298875a1dc05a37f1febd51b/jetified-EasyImage-2.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a065854c298875a1dc05a37f1febd51b/jetified-EasyImage-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a065854c298875a1dc05a37f1febd51b/jetified-EasyImage-2.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d01ea6237fe938b6d48cd8be07f306f/jetified-EasyImage-2.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d01ea6237fe938b6d48cd8be07f306f/jetified-EasyImage-2.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d01ea6237fe938b6d48cd8be07f306f/jetified-EasyImage-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7a38eeaea7637c56a81c919bff6b8ac/jetified-EasyImage-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7a38eeaea7637c56a81c919bff6b8ac/jetified-EasyImage-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7a38eeaea7637c56a81c919bff6b8ac/jetified-EasyImage-2.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3602494c03ccaf1a9415293c5f63e0f8/jetified-EasyImage-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3602494c03ccaf1a9415293c5f63e0f8/jetified-EasyImage-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3602494c03ccaf1a9415293c5f63e0f8/jetified-EasyImage-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eab7d8d01ebc7e720eb7d97462ffbe45/jetified-EasyImage-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eab7d8d01ebc7e720eb7d97462ffbe45/jetified-EasyImage-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eab7d8d01ebc7e720eb7d97462ffbe45/jetified-EasyImage-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3973a36483ff50cabe1114ffdc613ee1/jetified-EasyImage-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3973a36483ff50cabe1114ffdc613ee1/jetified-EasyImage-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3973a36483ff50cabe1114ffdc613ee1/jetified-EasyImage-2.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75a032d96eb5467959f071e22f889d06/jetified-EasyImage-2.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75a032d96eb5467959f071e22f889d06/jetified-EasyImage-2.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75a032d96eb5467959f071e22f889d06/jetified-EasyImage-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b21442b4fa9bd453bbf2bb86b67fdeb4/jetified-EasyImage-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b21442b4fa9bd453bbf2bb86b67fdeb4/jetified-EasyImage-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b21442b4fa9bd453bbf2bb86b67fdeb4/jetified-EasyImage-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52245488b7da0add3706677c38c6e5e7/jetified-EasyImage-2.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52245488b7da0add3706677c38c6e5e7/jetified-EasyImage-2.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52245488b7da0add3706677c38c6e5e7/jetified-EasyImage-2.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jkwiecien/EasyImage/2.1.0/15a4ccd68677071d501ea54695d131e128cf07b9/EasyImage-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

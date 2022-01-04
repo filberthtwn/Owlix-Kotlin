@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.duanhong169:drawabletoolbox:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc8ea1f3b1b2fc68153b24042122d471/jetified-drawabletoolbox-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc8ea1f3b1b2fc68153b24042122d471/jetified-drawabletoolbox-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc8ea1f3b1b2fc68153b24042122d471/jetified-drawabletoolbox-1.0.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d7021fc52810d0ddd3afe687b5116ca/jetified-drawabletoolbox-1.0.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d7021fc52810d0ddd3afe687b5116ca/jetified-drawabletoolbox-1.0.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d7021fc52810d0ddd3afe687b5116ca/jetified-drawabletoolbox-1.0.7/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f32a95e88d5dec6c491f22d3f2dd3f2/jetified-drawabletoolbox-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f32a95e88d5dec6c491f22d3f2dd3f2/jetified-drawabletoolbox-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f32a95e88d5dec6c491f22d3f2dd3f2/jetified-drawabletoolbox-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d6ef827fa282235066227d2f7ad3624f/jetified-drawabletoolbox-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d6ef827fa282235066227d2f7ad3624f/jetified-drawabletoolbox-1.0.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d6ef827fa282235066227d2f7ad3624f/jetified-drawabletoolbox-1.0.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d25fffffd9a15c2f361c6ae34f4fac4/jetified-drawabletoolbox-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d25fffffd9a15c2f361c6ae34f4fac4/jetified-drawabletoolbox-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d25fffffd9a15c2f361c6ae34f4fac4/jetified-drawabletoolbox-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebcc3d665319351609d5b2df3a7d5784/jetified-drawabletoolbox-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebcc3d665319351609d5b2df3a7d5784/jetified-drawabletoolbox-1.0.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebcc3d665319351609d5b2df3a7d5784/jetified-drawabletoolbox-1.0.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2f2b28b78af1b7763d91b0c4ea37567/jetified-drawabletoolbox-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2f2b28b78af1b7763d91b0c4ea37567/jetified-drawabletoolbox-1.0.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2f2b28b78af1b7763d91b0c4ea37567/jetified-drawabletoolbox-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b65c0dbde4ce85da91fa0ce44af5df6/jetified-drawabletoolbox-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b65c0dbde4ce85da91fa0ce44af5df6/jetified-drawabletoolbox-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b65c0dbde4ce85da91fa0ce44af5df6/jetified-drawabletoolbox-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/562507d90208bf1626fd490e19c16f9e/jetified-drawabletoolbox-1.0.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/562507d90208bf1626fd490e19c16f9e/jetified-drawabletoolbox-1.0.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/562507d90208bf1626fd490e19c16f9e/jetified-drawabletoolbox-1.0.7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.duanhong169/drawabletoolbox/1.0.7/da60e1ebc280db6644f6aa68e5e3d19b03062436/drawabletoolbox-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.duanhong169/drawabletoolbox/1.0.7/dd9dcd3ab37d7fe10c61ca28f406982a0f104d14/drawabletoolbox-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Owlix_Vendor.iml" filepath="$PROJECT_DIR$/.idea/modules/Owlix_Vendor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Owlix_Vendor.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Owlix_Vendor.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lvl_library/Owlix_Vendor.lvl_library.iml" filepath="$PROJECT_DIR$/.idea/modules/lvl_library/Owlix_Vendor.lvl_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lvl_sample/Owlix_Vendor.lvl_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/lvl_sample/Owlix_Vendor.lvl_sample.iml" />
+    </modules>
+  </component>
+</project>

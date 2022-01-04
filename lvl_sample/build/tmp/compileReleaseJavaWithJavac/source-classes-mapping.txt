@@ -1,0 +1,10 @@
+com/example/google/play/licensing/BuildConfig.java
+ com.example.google.play.licensing.BuildConfig
+com/example/google/play/licensing/MainActivity.java
+ com.example.google.play.licensing.MainActivity
+ com.example.google.play.licensing.MainActivity$1
+ com.example.google.play.licensing.MainActivity$2
+ com.example.google.play.licensing.MainActivity$3
+ com.example.google.play.licensing.MainActivity$4
+ com.example.google.play.licensing.MainActivity$5
+ com.example.google.play.licensing.MainActivity$MyLicenseCheckerCallback

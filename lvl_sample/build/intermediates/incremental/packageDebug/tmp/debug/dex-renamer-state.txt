@@ -1,0 +1,4 @@
+#Mon Mar 01 15:29:14 WIB 2021
+base.0=/Users/filberthartawan/Work/Owlix/Code/Vendor/lvl_sample/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

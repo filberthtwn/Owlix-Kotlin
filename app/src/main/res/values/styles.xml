@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorSecondary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowLightStatusBar">true</item>
+<!--        <item name="android:forceDarkAllowed">true</item>-->
+    </style>
+
+    <style name="ActionBar.nameText" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/colorTextDarkGrey</item>
+        <item name="android:textSize">17sp</item>
+<!--        <item name="android:fontFamily">@font/opensans_bold</item>-->
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="WrapContentDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+<!--        <item name="windowMinWidthMajor">100%</item>-->
+<!--        <item name="windowMinWidthMinor">100%</item>-->
+    </style>
+
+</resources>

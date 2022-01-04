@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Owlix Vendor</string>
+    <string name="string_profile">Profile</string>
+    <string name="string_myProduct">My Product</string>
+    <string name="string_order">Order</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_product_title_placeholder">Product Title</string>
+    <string name="string_ordered_on_title">Ordered on</string>
+    <string name="string_store_title">Store</string>
+    <string name="string_sold_count">Sold: 0</string>
+    <string name="string_password_placeholder">Password</string>
+    <string name="string_email_placeholder">Email</string>
+    <string name="string_forgot_password_title">Forgot Password?</string>
+    <string name="string_nama_toko_placeholder">Nama Toko</string>
+    <string name="string_next">Next</string>
+    <string name="string_kota_placeholder">Kota</string>
+    <string name="string_alamat_lengkap_placeholder">Alamat Lengkap</string>
+    <string name="string_kode_pos_placeholder">Kode Pos</string>
+    <string name="string_phone_number_placeholder">No. Handphone</string>
+    <string name="string_signup">Sign Up</string>
+    <string name="string_kategori">Kategori</string>
+    <string name="string_buka_toko">Buka Toko</string>
+    <string name="string_confirm_password">Confirm Password</string>
+    <string name="string_signin">Sign In</string>
+    <string name="string_ok">ok</string>
+    <string name="price_formatter">Rp %,d</string>
+    <string name="string_subscription_expired">Subscription Expired</string>
+    <string name="string_extend_subscription_subtitle">Perpanjang status subscription anda sekarang untuk tetap berjualan</string>
+    <string name="string_extend">Extend</string>
+    <string name="string_subscribe_now">Subscribe Now!</string>
+    <string name="string_subscribe_subtitle">Mulai berbuat baik dengan hanya berlangganan sekarang dengan harga yang terjangkau</string>
+    <string name="string_subscribe_button_title">Subscribe - Rp 0/ Bulan</string>
+    <string name="string_maybe_later">Maybe Later</string>
+    <string name="string_renew"><u>Renew</u></string>
+    <string name="string_signIn">Sign In</string>
+    <string name="string_enter_phone_number">Enter Phone Number</string>
+    <string name="string_send_otp">Send OTP</string>
+    <string name="string_login_subtitle">Kami akan mengirimkan anda kode OTP pada ponsel anda</string>
+    <string name="string_verification_code">Verification Code</string>
+    <string name="string_otp_subtitle">Tuliskan kode OTP yang dikirimkan ke</string>
+    <string name="string_not_receive_otp">Belum menerima kode OTP?</string>
+    <string name="string_resend_otp"><u>Kirim Ulang OTP</u></string>
+    <string name="string_verifikasi">Verifikasi</string>
+    <string name="string_province">Provinsi</string>
+    <string name="string_change_picture">Change Picture</string>
+    <string name="string_title">Title</string>
+    <string name="string_category_name">Category Name</string>
+    <string name="string_description">Description</string>
+    <string name="string_withdraw">Withdraw</string>
+    <string name="string_bank_name">Bank Name</string>
+    <string name="string_account_name">Account Name</string>
+    <string name="string_account_number">Account Number</string>
+    <string name="string_done">Done</string>
+    <string name="string_save">Save</string>
+    <string name="string_withdraw_history">Withdraw History</string>
+    <string name="string_01Jan2020">01 Jan 2020</string>
+    <string name="string_rp0">Rp0</string>
+    <string name="string_default_date">00:00</string>
+    <string name="string_data_diri">Personal Information</string>
+    <string name="string_store_information">Store Information</string>
+    <string name="string_register_disclaimer">Saya setuju dengan Syarat dan Ketentuan dan Kebijakan Privasi Owlix</string>
+    <string name="string_input_resi">Input Resi</string>
+    <string name="string_delete">Delete</string>
+    <string name="string_reject">Reject</string>
+    <string name="title_activity_subscription_dialog">SubscriptionDialogActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>

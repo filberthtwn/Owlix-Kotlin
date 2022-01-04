@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322489111091",
+    "firebase_url": "https://owlix-75be4.firebaseio.com",
+    "project_id": "owlix-75be4",
+    "storage_bucket": "owlix-75be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322489111091:android:e733f344c04e3287024946",
+        "android_client_info": {
+          "package_name": "com.owlix.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322489111091-e1pa5igv4ituknc1aq0mhndqlf6cr007.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTowvSXX3PgZqps45yptCb-U7qijtERw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322489111091-e1pa5igv4ituknc1aq0mhndqlf6cr007.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
